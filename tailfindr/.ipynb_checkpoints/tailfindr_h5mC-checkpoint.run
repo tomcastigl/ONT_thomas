@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#SBATCH --job-name=tailfindr_h5mC
+#SBATCH --time=04:00:00
+#SBATCH --account=upnae
+#SBATCH --nodes 1
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 8
+#SBATCH --chdir=/work/upnae/thomas_trna/src
+#SBATCH --array=1-1
+#SBATCH --output=tailfindr_h5mC.out
+
+Rscript tailfindr_script_base.R ${SLURM_ARRAY_TASK_ID}

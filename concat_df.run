@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#SBATCH --account=upnae
+#SBATCH --time=00:30:00
+#SBATCH --nodes 1
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 1
+#SBATCH --mem 30G
+#SBATCH --chdir=/work/upnae/thomas_trna/src
+#SBATCH --output=concat_df.out
+
+python3 concat_df.py

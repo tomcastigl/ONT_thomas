@@ -1,0 +1,16 @@
+#!/bin/bash
+#SBATCH --nodes 1
+#SBATCH --time 00:10:00
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 1
+#SBATCH --account upnae
+#SBATCH --partition=gpu
+#SBATCH --qos=gpu
+#SBATCH --gres=gpu:1
+#SBATCH --mem=50000
+#SBATCH --chdir /work/upnae/thomas_trna/src
+#SBATCH --output=vanilla_train_job_output.out
+
+echo runing vanillaNN.py
+srun --unbuffered python3 vanillaNN.py
+echo -------done------

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#SBATCH --job-name=getmapdf
+#SBATCH --account=upnae
+#SBATCH --time=1-0
+#SBATCH --nodes 1
+#SBATCH --ntasks 12
+#SBATCH --cpus-per-task 2
+#SBATCH --mem 100G
+#SBATCH --chdir=/work/upnae/thomas_trna/src
+#SBATCH --output=get_map_df.out
+
+python3 -u get_mapping_df.py

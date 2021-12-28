@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH --nodes 1
+#SBATCH --time 20:00:00
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 1
+#SBATCH --account upnae
+#SBATCH --partition=gpu
+#SBATCH --qos=gpu
+#SBATCH --gres=gpu:1
+#SBATCH --mem=30G
+#SBATCH --chdir /work/upnae/thomas_trna/src
+#SBATCH --output=train_output_chunks_1000_lr_1e-4.out
+
+python3 -u train.py --dataroot /work/upnae/thomas_trna/data/classification_dataset_conformer_chunks_curlk_1000 --mlflow_path /work/upnae/thomas_trna/data/mlflow --eval --output_dir /work/upnae/thomas_trna/models/conformer_output_chunks__curlk_1000_lr_1e-4 --batch_size=10 --train --num_train_epochs 14 --overwrite_output_dir --learning_rate 1e-4 --run_name chunks_1000_lr_1e-4_epochs_14 

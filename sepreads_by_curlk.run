@@ -1,0 +1,15 @@
+#!/bin/bash
+
+#SBATCH --job-name=sepreads
+#SBATCH --nodes 1
+#SBATCH --time 01:00:00
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 4
+#SBATCH --account upnae
+#SBATCH --mem=30G
+#SBATCH --chdir=/work/upnae/thomas_trna/src
+#SBATCH --output=sepreads.out
+
+echo running
+python3 separate_reads_by_curlcake.py
+echo done

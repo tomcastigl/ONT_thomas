@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH --nodes 1
+#SBATCH --time 02:00:00
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 1
+#SBATCH --account upnae
+#SBATCH --partition=gpu
+#SBATCH --qos=gpu
+#SBATCH --gres=gpu:1
+#SBATCH --mem=10G
+#SBATCH --chdir /work/upnae/thomas_trna/src
+#SBATCH --output=eval_output.out
+
+python3 train.py --model_path /work/upnae/thomas_trna/models/conformer_output_adapts_prank/final-model/final_model.pt --dataroot /work/upnae/thomas_trna/data/classification_dataset_conformer_adapts_prank --mlflow_path /work/upnae/thomas_trna/data/mlflow --eval --output_dir /home/tcastigl/tRNA/data/trained_all_eval_all --batch_size=10 --run_name adapt_prank

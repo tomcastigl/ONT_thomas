@@ -1,0 +1,572 @@
+[1] "3"
+[1] "/work/upnae/ONT_modif/data/m6A/3"
+[1] "m6A_3.csv"
+[1] "in /work/upnae/ONT_modif/data/m6A/3"
+[1] "2"
+[1] "/work/upnae/ONT_modif/data/m6A/2"
+[1] "m6A_2.csv"
+[1] "in /work/upnae/ONT_modif/data/m6A/2"
+────────────────────────────────────────────────────────────────────────────────
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+☰ You have configured tailfindr as following:
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/3
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ csv_filename:      m6A_3.csv
+❯ num_cores:         14
+❯ basecall_group:    Basecall_1D_001
+❯ save_plots:        FALSE
+❯ plot_debug_traces: FALSE
+❯ plotting_library:  rbokeh
+── Processing started at 2021-10-30 13:34:25 ───────────────────────────────────
+• Searching for all Fast5 files...
+  Done! Found 10 Fast5 files.
+• Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+────────────────────────────────────────────────────────────────────────────────
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+☰ You have configured tailfindr as following:
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/2
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ csv_filename:      m6A_2.csv
+❯ num_cores:         14
+❯ basecall_group:    Basecall_1D_001
+❯ save_plots:        FALSE
+❯ plot_debug_traces: FALSE
+❯ plotting_library:  rbokeh
+── Processing started at 2021-10-30 13:34:25 ───────────────────────────────────
+• Searching for all Fast5 files...
+  Done! Found 10 Fast5 files.
+• Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+[1] "5"
+[1] "/work/upnae/ONT_modif/data/m6A/5"
+[1] "m6A_5.csv"
+[1] "in /work/upnae/ONT_modif/data/m6A/5"
+[1] "4"
+[1] "/work/upnae/ONT_modif/data/m6A/4"
+[1] "m6A_4.csv"
+[1] "in /work/upnae/ONT_modif/data/m6A/4"
+────────────────────────────────────────────────────────────────────────────────
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+☰ You have configured tailfindr as following:
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/5
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ csv_filename:      m6A_5.csv
+❯ num_cores:         14
+❯ basecall_group:    Basecall_1D_001
+❯ save_plots:        FALSE
+❯ plot_debug_traces: FALSE
+❯ plotting_library:  rbokeh
+── Processing started at 2021-10-30 13:34:25 ───────────────────────────────────
+• Searching for all Fast5 files...
+────────────────────────────────────────────────────────────────────────────────
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+☰ You have configured tailfindr as following:
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/4
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ csv_filename:      m6A_4.csv
+❯ num_cores:         14
+❯ basecall_group:    Basecall_1D_001
+❯ save_plots:        FALSE
+❯ plot_debug_traces: FALSE
+❯ plotting_library:  rbokeh
+── Processing started at 2021-10-30 13:34:25 ───────────────────────────────────
+• Searching for all Fast5 files...
+  Done! Found 0 Fast5 files.
+• Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+  Done! Found 10 Fast5 files.
+• Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+[1][1][1][1][1] "7"[1][1] "12"[1] "6"
+[1] "1" "9"
+
+[1] "11"
+[1] "/work/upnae/ONT_modif/data/m6A/6"
+ "8" "13" "10"
+[1] "/work/upnae/ONT_modif/data/m6A/1" "/work/upnae/ONT_modif/data/m6A/9"[1] "/work/upnae/ONT_modif/data/m6A/12"
+[1][1]
+
+
+[1]
+
+
+[1][1] "m6A_12.csv"[1][1][1] "19"
+[1][1][1][1] "15" "16"
+
+[1] "/work/upnae/ONT_modif/data/m6A/10" "/work/upnae/ONT_modif/data/m6A/7"[1][1] "/work/upnae/ONT_modif/data/m6A/11" "m6A_6.csv" "18"
+ "14"
+ "/work/upnae/ONT_modif/data/m6A/8"
+[1] "20" "/work/upnae/ONT_modif/data/m6A/13"[1]
+
+[1] "m6A_1.csv"
+
+
+[1] "in /work/upnae/ONT_modif/data/m6A/12"[1] "/work/upnae/ONT_modif/data/m6A/14"[1] "m6A_8.csv"
+ "/work/upnae/ONT_modif/data/m6A/19"
+
+
+[1] "/work/upnae/ONT_modif/data/m6A/16" "/work/upnae/ONT_modif/data/m6A/15"
+
+[1] "m6A_10.csv"
+[1] "m6A_7.csv"
+ "m6A_9.csv"
+
+[1][1]
+
+[1][1][1] "m6A_19.csv"
+[1][1][1] "in /work/upnae/ONT_modif/data/m6A/10"
+[1][1][1] "m6A_11.csv" "in /work/upnae/ONT_modif/data/m6A/6" "/work/upnae/ONT_modif/data/m6A/18"
+ "in /work/upnae/ONT_modif/data/m6A/8"[1] "in /work/upnae/ONT_modif/data/m6A/19"
+ "/work/upnae/ONT_modif/data/m6A/20" "m6A_13.csv" "m6A_16.csv"[1]
+ "m6A_15.csv"
+ "in /work/upnae/ONT_modif/data/m6A/7"[1] "in /work/upnae/ONT_modif/data/m6A/1" "in /work/upnae/ONT_modif/data/m6A/9"[1]
+
+
+
+[1]
+
+
+
+ "m6A_14.csv"[1][1] "m6A_20.csv"
+[1] "in /work/upnae/ONT_modif/data/m6A/13"
+ "in /work/upnae/ONT_modif/data/m6A/16"[1]
+ "in /work/upnae/ONT_modif/data/m6A/15"
+[1]────────────────────────────────────────────────────────────────────────────────
+ "m6A_18.csv"────────────────────────────────────────────────────────────────────────────────[1]──────────────────────────────────────────────────────────────────────────────── "in /work/upnae/ONT_modif/data/m6A/20"
+──────────────────────────────────────────────────────────────────────────────── "in /work/upnae/ONT_modif/data/m6A/11"
+[1] "in /work/upnae/ONT_modif/data/m6A/14"
+
+
+
+
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────
+[1] "17" "in /work/upnae/ONT_modif/data/m6A/18"
+────────────────────────────────────────────────────────────────────────────────
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────[1]── Started tailfindr (version 1.3) ─────────────────────────────────────────────── Started tailfindr (version 1.3) ───────────────────────────────────────────── "/work/upnae/ONT_modif/data/m6A/17"
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+
+Execution halted
+[1]
+────────────────────────────────────────────────────────────────────────────────
+
+ "m6A_17.csv"────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────── Started tailfindr (version 1.3) ─────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────[1] "in /work/upnae/ONT_modif/data/m6A/17"
+────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+
+
+
+
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────── Started tailfindr (version 1.3) ─────────────────────────────────────────────── Started tailfindr (version 1.3) ─────────────────────────────────────────────── Started tailfindr (version 1.3) ─────────────────────────────────────────────── Started tailfindr (version 1.3) ─────────────────────────────────────────────☰ You have configured tailfindr as following:
+
+────────────────────────────────────────────────────────────────────────────────
+☰ You have configured tailfindr as following:
+☰ You have configured tailfindr as following:
+
+
+
+
+────────────────────────────────────────────────────────────────────────────────Warning message:
+
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-34-25_tailfinder.log) 
+
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/10
+
+────────────────────────────────────────────────────────────────────────────────❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/12
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/6
+☰ You have configured tailfindr as following:
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────❯ save_dir:          /work/upnae/thomas_trna/data
+☰ You have configured tailfindr as following:
+
+❯ save_dir:          /work/upnae/thomas_trna/data
+────────────────────────────────────────────────────────────────────────────────❯ save_dir:          /work/upnae/thomas_trna/data
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/19
+
+
+
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────── Started tailfindr (version 1.3) ─────────────────────────────────────────────
+❯ csv_filename:      m6A_10.csv
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/8
+☰ You have configured tailfindr as following:
+❯ csv_filename:      m6A_12.csv
+
+❯ csv_filename:      m6A_6.csv
+❯ save_dir:          /work/upnae/thomas_trna/data
+☰ You have configured tailfindr as following:
+☰ You have configured tailfindr as following:
+
+
+
+☰ You have configured tailfindr as following:
+❯ num_cores:         14
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/7
+❯ num_cores:         14
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────❯ num_cores:         14
+☰ You have configured tailfindr as following:
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/9
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/13
+────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/1
+❯ basecall_group:    Basecall_1D_001
+❯ csv_filename:      m6A_8.csv
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ basecall_group:    Basecall_1D_001
+
+❯ basecall_group:    Basecall_1D_001
+❯ csv_filename:      m6A_19.csv
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ save_dir:          /work/upnae/thomas_trna/data
+
+────────────────────────────────────────────────────────────────────────────────── Started tailfindr (version 1.3) ─────────────────────────────────────────────❯ save_dir:          /work/upnae/thomas_trna/data
+
+❯ save_plots:        FALSE
+❯ num_cores:         14
+❯ csv_filename:      m6A_7.csv
+❯ save_plots:        FALSE
+────────────────────────────────────────────────────────────────────────────────❯ save_plots:        FALSE
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/20
+❯ csv_filename:      m6A_9.csv
+❯ csv_filename:      m6A_13.csv
+☰ You have configured tailfindr as following:
+────────────────────────────────────────────────────────────────────────────────
+❯ csv_filename:      m6A_1.csv
+❯ plot_debug_traces: FALSE
+❯ basecall_group:    Basecall_1D_001
+❯ num_cores:         14
+❯ plot_debug_traces: FALSE
+
+❯ plot_debug_traces: FALSE
+❯ num_cores:         14
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ num_cores:         14
+❯ num_cores:         14
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/11
+
+── Started tailfindr (version 1.3) ─────────────────────────────────────────────❯ num_cores:         14
+❯ plotting_library:  rbokeh
+❯ save_plots:        FALSE
+❯ basecall_group:    Basecall_1D_001
+❯ plotting_library:  rbokeh
+☰ You have configured tailfindr as following:
+❯ plotting_library:  rbokeh
+❯ basecall_group:    Basecall_1D_001
+❯ csv_filename:      m6A_20.csv
+❯ basecall_group:    Basecall_1D_001
+❯ basecall_group:    Basecall_1D_001
+❯ save_dir:          /work/upnae/thomas_trna/data
+
+────────────────────────────────────────────────────────────────────────────────❯ basecall_group:    Basecall_1D_001
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────❯ plot_debug_traces: FALSE
+❯ save_plots:        FALSE
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/14
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────❯ save_plots:        FALSE
+❯ num_cores:         14
+❯ save_plots:        FALSE
+❯ save_plots:        FALSE
+❯ csv_filename:      m6A_11.csv
+☰ You have configured tailfindr as following:
+
+❯ save_plots:        FALSE
+
+❯ plotting_library:  rbokeh
+❯ plot_debug_traces: FALSE
+
+❯ save_dir:          /work/upnae/thomas_trna/data
+
+❯ plot_debug_traces: FALSE
+❯ basecall_group:    Basecall_1D_001
+❯ plot_debug_traces: FALSE
+❯ plot_debug_traces: FALSE
+❯ num_cores:         14
+☰ You have configured tailfindr as following:
+
+❯ plot_debug_traces: FALSE
+• Searching for all Fast5 files...
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────❯ plotting_library:  rbokeh
+• Searching for all Fast5 files...
+❯ csv_filename:      m6A_14.csv
+• Searching for all Fast5 files...
+❯ plotting_library:  rbokeh
+❯ plotting_library:  rbokeh
+❯ save_plots:        FALSE
+❯ plotting_library:  rbokeh
+❯ basecall_group:    Basecall_1D_001
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/15
+────────────────────────────────────────────────────────────────────────────────❯ plotting_library:  rbokeh
+
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────❯ num_cores:         14
+  Done! Found 0 Fast5 files.
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────❯ plot_debug_traces: FALSE
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/16
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ save_plots:        FALSE
+☰ You have configured tailfindr as following:
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────
+• Searching for all Fast5 files...
+
+❯ basecall_group:    Basecall_1D_001
+• Analyzing a single Fast5 file to assess if your data 
+
+
+❯ plotting_library:  rbokeh
+
+❯ save_dir:          /work/upnae/thomas_trna/data
+❯ plot_debug_traces: FALSE
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/18
+
+• Searching for all Fast5 files...
+❯ save_plots:        FALSE
+  is in an acceptable format...
+• Searching for all Fast5 files...
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────• Searching for all Fast5 files...
+❯ csv_filename:      m6A_15.csv
+• Searching for all Fast5 files...
+☰ You have configured tailfindr as following:
+❯ plotting_library:  rbokeh
+  Done! Found 0 Fast5 files.
+• Searching for all Fast5 files...
+  Done! Found 10 Fast5 files.
+❯ plot_debug_traces: FALSE
+
+  Done! Found 10 Fast5 files.
+❯ csv_filename:      m6A_16.csv
+❯ num_cores:         14
+❯ save_dir:          /work/upnae/thomas_trna/data
+  Done! Found 0 Fast5 files.
+  Done! Found 0 Fast5 files.
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────• Analyzing a single Fast5 file to assess if your data 
+• Analyzing a single Fast5 file to assess if your data 
+❯ plotting_library:  rbokeh
+• Searching for all Fast5 files...
+• Analyzing a single Fast5 file to assess if your data 
+❯ num_cores:         14
+❯ fast5_dir:         /work/upnae/ONT_modif/data/m6A/17
+  Done! Found 10 Fast5 files.
+• Analyzing a single Fast5 file to assess if your data 
+• Analyzing a single Fast5 file to assess if your data 
+
+  is in an acceptable format...
+  Done! Found 10 Fast5 files.
+  is in an acceptable format...
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────  is in an acceptable format...
+❯ basecall_group:    Basecall_1D_001
+❯ basecall_group:    Basecall_1D_001
+  Done! Found 10 Fast5 files.
+❯ csv_filename:      m6A_18.csv
+• Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+  is in an acceptable format...
+• Searching for all Fast5 files...
+• Analyzing a single Fast5 file to assess if your data 
+
+❯ save_plots:        FALSE
+❯ save_plots:        FALSE
+  Done! Found 10 Fast5 files.
+❯ save_dir:          /work/upnae/thomas_trna/data
+• Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+  is in an acceptable format...
+  Done! Found 10 Fast5 files.
+• Searching for all Fast5 files...
+❯ plot_debug_traces: FALSE
+❯ plot_debug_traces: FALSE
+• Analyzing a single Fast5 file to assess if your data 
+❯ num_cores:         14
+❯ csv_filename:      m6A_17.csv
+  is in an acceptable format...
+❯ plotting_library:  rbokeh
+❯ plotting_library:  rbokeh
+  is in an acceptable format...
+❯ num_cores:         14
+• Analyzing a single Fast5 file to assess if your data 
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────❯ basecall_group:    Basecall_1D_001
+  is in an acceptable format...
+
+
+❯ basecall_group:    Basecall_1D_001
+  Done! Found 10 Fast5 files.
+• Searching for all Fast5 files...
+• Searching for all Fast5 files...
+❯ save_plots:        FALSE
+• Analyzing a single Fast5 file to assess if your data 
+❯ save_plots:        FALSE
+❯ plot_debug_traces: FALSE
+  is in an acceptable format...
+❯ plot_debug_traces: FALSE
+❯ plotting_library:  rbokeh
+❯ plotting_library:  rbokeh
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────
+• Searching for all Fast5 files...
+── Processing started at 2021-10-30 13:34:26 ───────────────────────────────────
+• Searching for all Fast5 files...
+  Done! Found 10 Fast5 files.
+  Done! Found 10 Fast5 files.
+• Analyzing a single Fast5 file to assess if your data 
+  Done! Found 10 Fast5 files.
+• Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+  is in an acceptable format...
+• Analyzing a single Fast5 file to assess if your data 
+  Done! Found 10 Fast5 files.
+  is in an acceptable format...
+• Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Execution halted
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Execution halted
+Execution halted
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Execution halted
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-34-25_tailfinder.log) 
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-34-25_tailfinder.log) 
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-34-25_tailfinder.log) 
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-34-25_tailfinder.log) 
+  ✔ The data has been basecalled using Guppy.
+  ✔ Flipflop model was used during basecalling.
+  ✔ The reads are packed in multi-fast5 file(s).
+  ✔ The experiment type is RNA, so we will search
+    for poly(A) tails.
+  ✔ The reads are 1D reads.
+• Starting a parallel compute cluster...

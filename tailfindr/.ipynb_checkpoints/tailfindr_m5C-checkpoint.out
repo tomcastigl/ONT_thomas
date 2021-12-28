@@ -1,0 +1,551 @@
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+During startup - During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+Warning messages:
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+1: Setting LC_CTYPE failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+[1][1] "3"
+ "5"
+[1][1] "/work/upnae/ONT_modif/data/h5mC/3"
+ "/work/upnae/ONT_modif/data/h5mC/5"
+[1] "h5mC_3.csv"
+[1][1] "h5mC_5.csv" "in /work/upnae/ONT_modif/data/h5mC/3"
+
+[1]During startup - [1] "2" "in /work/upnae/ONT_modif/data/h5mC/5"
+
+Warning messages:
+[1][1]During startup - 1: Setting LC_CTYPE failed, using "C" 
+ "/work/upnae/ONT_modif/data/h5mC/2"Warning messages:
+During startup - 2: Setting LC_COLLATE failed, using "C" 
+ "7"
+During startup - During startup - 1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+Warning messages:
+Warning messages:
+Warning messages:
+[1]
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+1: Setting LC_CTYPE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+[1]7: Setting LC_MEASUREMENT failed, using "C" 
+ "/work/upnae/ONT_modif/data/h5mC/7"
+1: Setting LC_CTYPE failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+ "h5mC_2.csv"[1] "h5mC_7.csv"
+2: Setting LC_COLLATE failed, using "C" 
+1: Setting LC_CTYPE failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+[1]5: Setting LC_MONETARY failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+[1] "in /work/upnae/ONT_modif/data/h5mC/7"
+ "in /work/upnae/ONT_modif/data/h5mC/2"6: Setting LC_PAPER failed, using "C" 
+[1]5: Setting LC_MONETARY failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+
+ "1"
+7: Setting LC_MEASUREMENT failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+[1]5: Setting LC_MONETARY failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+ "/work/upnae/ONT_modif/data/h5mC/1"
+6: Setting LC_PAPER failed, using "C" 
+[1][1] "8"7: Setting LC_MEASUREMENT failed, using "C" 
+ "h5mC_1.csv"
+
+--------------------------------------------------------------------------------[1] "in /work/upnae/ONT_modif/data/h5mC/1"
+[1]--------------------------------------------------------------------------------
+ "/work/upnae/ONT_modif/data/h5mC/8"
+
+-- Started tailfindr (version 1.3) ----------------------------------------------- Started tailfindr (version 1.3) ---------------------------------------------During startup - [1]Warning messages:
+ "h5mC_8.csv"1: Setting LC_CTYPE failed, using "C" 
+
+[1]--------------------------------------------------------------------------------[1][1]
+
+2: Setting LC_COLLATE failed, using "C" 
+[1]3: Setting LC_TIME failed, using "C" 
+--------------------------------------------------------------------------------
+ "6" "4" "9"---------------------------------------------------------------------------------------------------------------------------------------------------------------- "in /work/upnae/ONT_modif/data/h5mC/8"4: Setting LC_MESSAGES failed, using "C" 
+
+5: Setting LC_MONETARY failed, using "C" 
+
+
+
+
+
+
+= You have configured tailfindr as following:
+--------------------------------------------------------------------------------6: Setting LC_PAPER failed, using "C" 
+[1][1][1]= You have configured tailfindr as following:
+-- Started tailfindr (version 1.3) ----------------------------------------------- Started tailfindr (version 1.3) ---------------------------------------------> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/5
+7: Setting LC_MEASUREMENT failed, using "C" 
+
+ "/work/upnae/ONT_modif/data/h5mC/6" "/work/upnae/ONT_modif/data/h5mC/4" "/work/upnae/ONT_modif/data/h5mC/9"> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/3
+
+
+> save_dir:          /work/upnae/thomas_trna/data
+During startup - 
+Warning messages:
+[1]1: Setting LC_CTYPE failed, using "C" 
+> save_dir:          /work/upnae/thomas_trna/data
+------------------------------------------------------------------------------------------------------------------------------------------------------------------ Started tailfindr (version 1.3) ---------------------------------------------> csv_filename:      h5mC_5.csv
+
+
+ "h5mC_6.csv"> csv_filename:      h5mC_3.csv
+
+
+
+[1]-------------------------------------------------------------------------------- "h5mC_4.csv"> num_cores:         14
+
+2: Setting LC_COLLATE failed, using "C" 
+[1]= You have configured tailfindr as following:
+= You have configured tailfindr as following:
+--------------------------------------------------------------------------------[1]
+ "h5mC_9.csv"> basecall_group:    Basecall_1D_001
+
+[1] "in /work/upnae/ONT_modif/data/h5mC/4"> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/7
+> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/2
+
+
+> num_cores:         14
+-- Started tailfindr (version 1.3) ---------------------------------------------> save_plots:        FALSE
+[1] "11" "in /work/upnae/ONT_modif/data/h5mC/9"
+
+[1][1]> basecall_group:    Basecall_1D_001
+
+> plot_debug_traces: FALSE
+
+> save_dir:          /work/upnae/thomas_trna/data
+> save_dir:          /work/upnae/thomas_trna/data
+= You have configured tailfindr as following:
+ "/work/upnae/ONT_modif/data/h5mC/11" "in /work/upnae/ONT_modif/data/h5mC/6"> save_plots:        FALSE
+--------------------------------------------------------------------------------> plotting_library:  rbokeh
+> csv_filename:      h5mC_7.csv
+> csv_filename:      h5mC_2.csv
+> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/1
+
+
+> plot_debug_traces: FALSE
+
+-- Processing started at 2021-10-30 13:23:52 -----------------------------------> num_cores:         14
+> num_cores:         14
+[1]> save_dir:          /work/upnae/thomas_trna/data
+ "h5mC_11.csv"= You have configured tailfindr as following:
+
+> basecall_group:    Basecall_1D_001
+> basecall_group:    Basecall_1D_001
+> plotting_library:  rbokeh
+> csv_filename:      h5mC_1.csv
+
+> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/8
+[1]> save_plots:        FALSE
+> save_plots:        FALSE
+-- Processing started at 2021-10-30 13:23:52 -----------------------------------> num_cores:         14
+ "in /work/upnae/ONT_modif/data/h5mC/11"* Searching for all Fast5 files...
+> save_dir:          /work/upnae/thomas_trna/data
+--------------------------------------------------------------------------------> plot_debug_traces: FALSE
+> plot_debug_traces: FALSE
+
+
+> basecall_group:    Basecall_1D_001
+> csv_filename:      h5mC_8.csv
+  Done! Found 0 Fast5 files.
+
+3: Setting LC_TIME failed, using "C" 
+> plotting_library:  rbokeh
+> plotting_library:  rbokeh
+--------------------------------------------------------------------------------* Searching for all Fast5 files...
+> save_plots:        FALSE
+4: Setting LC_MESSAGES failed, using "C" 
+* Analyzing a single Fast5 file to assess if your data 
+5: Setting LC_MONETARY failed, using "C" 
+-- Started tailfindr (version 1.3) ---------------------------------------------6: Setting LC_PAPER failed, using "C" 
+-- Processing started at 2021-10-30 13:23:52 -----------------------------------7: Setting LC_MEASUREMENT failed, using "C" 
+
+-- Processing started at 2021-10-30 13:23:52 -----------------------------------> plot_debug_traces: FALSE
+> num_cores:         14
+  is in an acceptable format...
+[1]--------------------------------------------------------------------------------
+ "10"
+-- Started tailfindr (version 1.3) ---------------------------------------------
+
+> plotting_library:  rbokeh
+> basecall_group:    Basecall_1D_001
+[1]
+--------------------------------------------------------------------------------* Searching for all Fast5 files...
+
+ "/work/upnae/ONT_modif/data/h5mC/10"* Searching for all Fast5 files...
+-- Processing started at 2021-10-30 13:23:52 -----------------------------------> save_plots:        FALSE
+  Done! Found 8 Fast5 files.
+---------------------------------------------------------------------------------- Started tailfindr (version 1.3) ---------------------------------------------
+--------------------------------------------------------------------------------  Done! Found 0 Fast5 files.
+
+
+> plot_debug_traces: FALSE
+* Analyzing a single Fast5 file to assess if your data 
+
+= You have configured tailfindr as following:
+
+
+* Analyzing a single Fast5 file to assess if your data 
+  Done! Found 10 Fast5 files.
+* Searching for all Fast5 files...
+> plotting_library:  rbokeh
+  is in an acceptable format...
+--------------------------------------------------------------------------------[1]> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/9
+-- Started tailfindr (version 1.3) ---------------------------------------------  is in an acceptable format...
+* Analyzing a single Fast5 file to assess if your data 
+-- Processing started at 2021-10-30 13:23:52 -----------------------------------  Done! Found 10 Fast5 files.
+= You have configured tailfindr as following:
+
+> save_dir:          /work/upnae/thomas_trna/data
+ "h5mC_10.csv"  is in an acceptable format...
+
+* Analyzing a single Fast5 file to assess if your data 
+> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/4
+= You have configured tailfindr as following:
+> csv_filename:      h5mC_9.csv
+
+
+> num_cores:         14
+--------------------------------------------------------------------------------> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/6
+  is in an acceptable format...
+* Searching for all Fast5 files...
+> save_dir:          /work/upnae/thomas_trna/data
+> basecall_group:    Basecall_1D_001
+[1]> save_dir:          /work/upnae/thomas_trna/data
+  Done! Found 0 Fast5 files.
+> csv_filename:      h5mC_4.csv
+> save_plots:        FALSE
+
+ "in /work/upnae/ONT_modif/data/h5mC/10"> csv_filename:      h5mC_6.csv
+* Analyzing a single Fast5 file to assess if your data 
+> num_cores:         14
+> plot_debug_traces: FALSE
+
+> num_cores:         14
+= You have configured tailfindr as following:
+> basecall_group:    Basecall_1D_001
+> plotting_library:  rbokeh
+  is in an acceptable format...
+> basecall_group:    Basecall_1D_001
+> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/11
+> save_plots:        FALSE
+-- Processing started at 2021-10-30 13:23:53 -----------------------------------> save_plots:        FALSE
+> save_dir:          /work/upnae/thomas_trna/data
+> plot_debug_traces: FALSE
+
+> plot_debug_traces: FALSE
+> csv_filename:      h5mC_11.csv
+> plotting_library:  rbokeh
+> plotting_library:  rbokeh
+> num_cores:         14
+-- Processing started at 2021-10-30 13:23:53 ------------------------------------- Processing started at 2021-10-30 13:23:53 -----------------------------------> basecall_group:    Basecall_1D_001
+
+
+> save_plots:        FALSE
+* Searching for all Fast5 files...
+* Searching for all Fast5 files...
+* Searching for all Fast5 files...
+> plot_debug_traces: FALSE
+  Done! Found 0 Fast5 files.
+  Done! Found 0 Fast5 files.
+  Done! Found 0 Fast5 files.
+> plotting_library:  rbokeh
+* Analyzing a single Fast5 file to assess if your data 
+* Analyzing a single Fast5 file to assess if your data 
+* Analyzing a single Fast5 file to assess if your data 
+-- Processing started at 2021-10-30 13:23:53 -----------------------------------  is in an acceptable format...
+  is in an acceptable format...
+  is in an acceptable format...
+
+* Searching for all Fast5 files...
+  Done! Found 0 Fast5 files.
+* Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+--------------------------------------------------------------------------------
+-- Started tailfindr (version 1.3) ---------------------------------------------
+--------------------------------------------------------------------------------
+= You have configured tailfindr as following:
+> fast5_dir:         /work/upnae/ONT_modif/data/h5mC/10
+> save_dir:          /work/upnae/thomas_trna/data
+> csv_filename:      h5mC_10.csv
+> num_cores:         14
+> basecall_group:    Basecall_1D_001
+> save_plots:        FALSE
+> plot_debug_traces: FALSE
+> plotting_library:  rbokeh
+-- Processing started at 2021-10-30 13:23:53 -----------------------------------
+* Searching for all Fast5 files...
+  Done! Found 0 Fast5 files.
+* Analyzing a single Fast5 file to assess if your data 
+  is in an acceptable format...
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Execution halted
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Execution halted
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Execution halted
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Execution halted
+Execution halted
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Execution halted
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+Execution halted
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-23-52_tailfinder.log) 
+Warning message:
+Error in H5File.open(filename, mode, file_create_pl, file_access_pl) : 
+  HDF5-API Errors:
+    error #000: H5F.c in H5Fopen(): line 620: unable to open file
+        class: HDF5
+        major: File accessibility
+        minor: Unable to open file
+
+    error #001: H5VLcallback.c in H5VL_file_open(): line 3501: failed to iterate over available VOL connector plugins
+        class: HDF5
+        major: Virtual Object Layer
+        minor: Iteration failed
+
+    error #002: H5PLpath.c in H5PL__path_table_iterate(): line 578: can't iterate over plugins in plugin path '(null)'
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Iteration failed
+
+    error #003: H5PLpath.c in H5PL__path_table_iterate_process_path(): line 620: can't open directory: /home/tcastigl/miniconda3/envs/hd5/lib/hdf5/plugin
+        class: HDF5
+        major: Plugin for dynamically loaded library
+        minor: Can't open directory or file
+
+    error #004: H5VLcallback.c in H5VL__file_open(): line 3351: open failed
+        class: HDF5
+        major: Vi
+Calls: find_tails ... explore_basecaller_and_fast5type -> <Anonymous> -> initialize -> H5File.open
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-23-52_tailfinder.log) 
+Execution halted
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-23-52_tailfinder.log) 
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-23-52_tailfinder.log) 
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-23-52_tailfinder.log) 
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-23-52_tailfinder.log) 
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-23-53_tailfinder.log) 
+Warning message:
+closing unused connection 3 (/work/upnae/thomas_trna/data/2021-10-30_13-23-52_tailfinder.log) 
