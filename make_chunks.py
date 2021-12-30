@@ -31,7 +31,6 @@ print(len(chunks))
 
 train_chunks_df=pd.DataFrame(data=list(zip(read_ids,chunks,labels)),columns=['read_id','signal','dataset'])
 print('------train df------ \n\n')
-train_chunks_df.head(-10)
 train_chunks_df.dataset=train_chunks_df.dataset.astype('category')
 print(f'shape: {train_chunks_df.shape}')
 train_chunks_df.info()
